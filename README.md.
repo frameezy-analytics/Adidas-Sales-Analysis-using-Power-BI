@@ -1,0 +1,20 @@
+## Dashboard Preview
+
+### Dashboard Page 1
+![Dashboard Page 1](Adidas Sales Dashboard/Screenshot (7).png)
+
+### Dashboard Page 2
+![Dashboard Page 2](Adidas Sales Dashboard/Screenshot (8).png)
+
+#### Project Overview
+This project analyzes Adidas sales data using SQL to uncover insights into sales performance, retailer contributions, product trends, regional performance, and profitability.
+
+The goal is to transform raw sales data into actionable business insights that can support strategic decision-making and improve overall sales performance.
+
+#### Objectives
+- Analyze overall sales performance
+- Identify top-performing retailers
+- Evaluate product performance
+- Compare sales across regions
+- Measure profitability and operating margins
+- Discover sales trends and patterns
